@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2024 Aset Saylyavkhan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this documentation and associated files (the "Documentation"), to deal
