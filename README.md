@@ -5,7 +5,7 @@ This repository contains documentation of what I learned in the AWS workshop on 
 
 ## Workshop Overview
 
-The workshop stages a situation where a company requires enhanced security controls over the 3 tier web app environment. To view the architecture that was implemented [click here](Architecture.png). It is required to implement a NIST 800-53rev5 compliant environment using the security services provided by AWS.
+The workshop stages a situation where a company requires enhanced security controls over the 3 tier web app environment. To view the workshop [click here](https://catalog.workshops.aws/control-design/en-US); to view the architecture that was implemented [click here](Architecture.png). It is required to implement a NIST 800-53rev5 compliant environment using the security services provided by AWS.
 
 
 ## Key Takeaways
@@ -18,3 +18,4 @@ The last major thing that I grew in was understanding how to write JSON template
 ## License
 
 This documentation is licensed under the [MIT License](LICENSE.md).
+
